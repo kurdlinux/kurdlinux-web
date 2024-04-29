@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Introduction to Arch Linux",
+        "description": "Learn the basics of Arch Linux, a lightweight and flexible Linux distribution.",
+        "image": "arch-linux-image.jpg"
+    },
+    {
+        "title": "Linux Command Line Essentials",
+        "description": "Master the command line interface in Linux and unleash the power of the terminal.",
+        "image": "linux-command-line.jpg"
+    },
+    {
+        "title": "Setting up a LAMP Stack on Linux",
+        "description": "Step-by-step guide to install and configure a LAMP (Linux, Apache, MySQL, PHP) stack on your Linux server.",
+        "image": "lamp-stack.jpg"
+    }
+]
